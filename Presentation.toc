@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Personenerkennung}{5}{0}{2}
+\beamer@sectionintoc {3}{Handgestenerkennung}{6}{0}{3}
+\beamer@sectionintoc {4}{Bibs}{7}{0}{4}
+\beamer@sectionintoc {5}{Fazit}{9}{0}{5}
